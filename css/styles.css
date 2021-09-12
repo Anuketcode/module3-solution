@@ -1,0 +1,48 @@
+/********************************** navbar ************************************/
+.navbar {
+ 	border: none;
+}
+.navbar-header {
+  	font-family: 'Anton', sans-serif;
+}
+.navbar-brand {
+	font-size: 2.5em;
+}
+
+#navigation-bar {
+  	background-color: #f7d434;
+  	margin-bottom: 0;
+}
+#navigation-bar button {
+  	background-color: #e3ba00;
+  	border:;
+}
+#navbar-toggle-menu {
+  	border: none;
+}
+#nav-menu-list {
+  	margin-top: 0;
+  	margin-bottom: 0;
+}
+#nav-menu-list a {
+  	text-align: center;
+  	background-color: #ffe375;
+}
+#nav-menu-list a:hover {
+  	background: #e7e7e7;
+}
+/********************************** navbar end *********************************/
+
+/********************************** main content ******************************/
+H2 {
+	color: #dbdbdb;
+}
+#main-content {
+	background-color: #a11b03;
+}
+#content-body {
+  	margin: 5px 20px 15px;
+  	padding: 5px 10px 5px;
+  	background-color: #ffe694;
+}
+/******************************* main content end ******************************/
